@@ -6,7 +6,7 @@
 <body>
 <br>
 <div align="center">
-<img src="img/yae.gif" width="300px">
+<img src="yae.gif" width="300px">
 </div>
 <br>
 
