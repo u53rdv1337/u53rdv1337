@@ -115,7 +115,7 @@ My Favourite singers (アイドル): Iwan Fals , Iksan Skuter , Masdo , Ebiet G 
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/tricker.1337/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>  <br><img src = "https://upload-os-bbs.hoyolab.com/upload/2023/05/14/11391624/efb31b249375e3e3875e9b90c78cb5f2_3443545996831743252.gif" width = "400"/>
 </div>  
 
